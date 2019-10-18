@@ -1,1 +1,1 @@
-worker: node Clone
+worker: node copy
